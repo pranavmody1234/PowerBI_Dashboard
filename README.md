@@ -2,6 +2,10 @@
 
 Welcome to the **Business Dashboard**, a comprehensive PowerBI tool that provides an in-depth overview of key business departments. This dashboard is divided into four main sections: **Finance**, **Sales**, **Marketing**, and **Supply Chain**, each offering specific insights into the respective areas of the company. This tool is designed to facilitate better decision-making and operational efficiency.
 
+You can view the live dashboard by clicking the link below:
+
+[View Business Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2Y0Nzc0ZDAtODcyZS00N2Y2LWI0ZGItMzIwZDkxZjk0Y2Q1IiwidCI6IjhkMjgxZDFkLTljNGQtNGJmNy1iMTZlLTAzMmQxNWRlOWY2YyIsImMiOjN9)
+
 ## Sections Overview
 
 ### 1. **Finance View**
@@ -61,4 +65,6 @@ To navigate back to the main dashboard, click on the "Home" icon available in ea
 This project is licensed under the MIT License.
 
 ---
-For any issues or feature requests, feel free to reach out to
+For any issues or feature requests, feel free to reach out to the dashboard creator.
+
+**Creator**: Pranav Mody  
