@@ -47,9 +47,9 @@ The Supply Chain View offers insights into the efficiency and effectiveness of t
 ## How to Use the Dashboard
 
 Each section of the dashboard can be accessed by clicking on the corresponding icon:
-- **Finance View** ![Finance Icon](path/to/finance_icon)
-- **Sales View** ![Sales Icon](path/to/sales_icon)
-- **Marketing View** ![Marketing Icon](path/to/marketing_icon)
+- **Finance View** ![PowerBI2](path/to/finance_icon)
+- **Sales View** ![PowerBI3](path/to/sales_icon)
+- **Marketing View** ![PowerBI3](path/to/marketing_icon)
 - **Supply Chain View** ![Supply Chain Icon](path/to/supply_chain_icon)
 
 Once inside a section, you will be able to interact with various visualizations to explore detailed data, filter results, and get insights for decision-making.
