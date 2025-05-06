@@ -6,6 +6,9 @@ You can view the live dashboard by clicking the link below:
 
 [View Business Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2Y0Nzc0ZDAtODcyZS00N2Y2LWI0ZGItMzIwZDkxZjk0Y2Q1IiwidCI6IjhkMjgxZDFkLTljNGQtNGJmNy1iMTZlLTAzMmQxNWRlOWY2YyIsImMiOjN9)
 
+- **Homepage** ![Homepage](./PowerBI1.png)
+
+
 ## Sections Overview
 
 ### 1. **Finance View**
@@ -47,10 +50,10 @@ The Supply Chain View offers insights into the efficiency and effectiveness of t
 ## How to Use the Dashboard
 
 Each section of the dashboard can be accessed by clicking on the corresponding icon:
-- **Finance View** ![PowerBI2](PowerBI2)
-- **Sales View** ![PowerBI3](PowerBI3)
-- **Marketing View** ![PowerBI3](PowerBI4)
-- **Supply Chain View** ![Supply Chain Icon](PowerBI5)
+- **Finance View** ![Finance Icon](./PowerBI2.png)
+- **Sales View** ![Sales Icon](./PowerBI3.png)
+- **Marketing View** ![Marketing Icon](./PowerBI4.png)
+- **Supply Chain View** ![Supply Chain Icon](./PowerBI5.png)
 
 Once inside a section, you will be able to interact with various visualizations to explore detailed data, filter results, and get insights for decision-making.
 
